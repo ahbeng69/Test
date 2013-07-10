@@ -10,7 +10,7 @@ namespace Test.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application. This is crap 2.";
+            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application. This is crap 3.";
 
             return View();
         }
